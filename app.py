@@ -3,7 +3,7 @@
 name = "DaKarri Jenkins"
 major = "Computer Science"
 technology_interest = "Artificial Intelligence/Software Engineering"
-skill_goal = "Get better at Full-Stack Web Development"
+skill_goal = "Backend Development"
 
 print(f"Senior Project Developer Profile")
 print(f"Name: {name}")
